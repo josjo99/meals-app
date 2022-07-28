@@ -1,0 +1,13 @@
+{
+    "web": {
+        "client_id": "898294482869-mqb634vuu0isptgftlv8ojg6na77imil.apps.googleusercontent.com",
+        "project_id": "meal-ordering-app-357601",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "javascript_origins": [
+            "http://localhost:3000"
+        ]
+    }
+}
